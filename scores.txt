@@ -1,0 +1,4 @@
+Player name           Time Played                      No of Moves                    Lives left
+Aditya                  1:71                               5                              3
+Shruti                  0:26                               6                              3
+Pranav                  0:50                               8                              3
